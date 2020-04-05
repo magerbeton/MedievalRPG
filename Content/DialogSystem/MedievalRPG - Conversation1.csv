@@ -1,6 +1,6 @@
-,Index,Inhalt,NextSheet,QuestAction,Items,DataTable,QuestStep
-0,0,Hallo,"((Index=1,buttonName=""Gehen""),(Index=2,buttonName=""Grüßen""))",0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",None,0
-1,1,Tschau,"((Index=-1,buttonName=""Gehen""))",1,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",DataTable'/Game/DialogSystem/MedievalRPG_-_Conversation1.MedievalRPG_-_Conversation1',3
-2,2,Grüß dich,"((Index=3,buttonName=""Zurück Grüßen""))",0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",None,0
-3,3,Hey,"((Index=-1,buttonName=""Gehen""))",2,"((ItemID=1,Name=""None"",Amount=25,Quality=6))",None,0
-4,4,Metzger,"((Index=-1,buttonName=""None""))",0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",None,0
+,Index,Inhalt,NextSheet
+0,0,Hallo,"((Index=1,buttonName=""Gehen"",ActionID=0,Item=(()),DataTable=None,QuestIndex=0),(Index=2,buttonName=""Grüßen"",ActionID=0,Item=(()),DataTable=None,QuestIndex=0))"
+1,1,Tschau,"((Index=-1,buttonName=""Gehen"",ActionID=2,Item=(()),DataTable=DataTable'/Game/QuestSystem/MedievalRPG_-_Quest01.MedievalRPG_-_Quest01',QuestIndex=3))"
+2,2,Grüß dich,"((Index=3,buttonName=""Zurück Grüßen"",ActionID=0,Item=(()),DataTable=None',QuestIndex=0))"
+3,3,Hey,"((Index=-1,buttonName=""None"",ActionID=0,Item=(()),DataTable=None',QuestIndex=0))"
+4,4,Metzger,"((Index=-1,buttonName=""None"",ActionID=0,Item=(()),DataTable=None',QuestIndex=0))"
