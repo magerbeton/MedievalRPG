@@ -1,6 +1,6 @@
-,Index,Inhalt,NextSheet
-0,0,Hallo,"(-1,1,2)"
-1,1,Tschau,"(-1,-1)"
-2,2,Grüß dich,"(-1,3)"
-3,3,Hey,"(-1,-1)"
-4,4,Metzger,"(-1,-1)"
+,Index,Inhalt,NextSheet,QuestAction,Items,DataTable,QuestStep
+0,0,Hallo,"((Index=1,buttonName=""Gehen""),(Index=2,buttonName=""Grüßen""))",0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",None,0
+1,1,Tschau,"((Index=-1,buttonName=""Gehen""))",1,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",DataTable'/Game/DialogSystem/MedievalRPG_-_Conversation1.MedievalRPG_-_Conversation1',3
+2,2,Grüß dich,"((Index=3,buttonName=""Zurück Grüßen""))",0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",None,0
+3,3,Hey,"((Index=-1,buttonName=""Gehen""))",2,"((ItemID=1,Name=""None"",Amount=25,Quality=6))",None,0
+4,4,Metzger,"((Index=-1,buttonName=""None""))",0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))",None,0
