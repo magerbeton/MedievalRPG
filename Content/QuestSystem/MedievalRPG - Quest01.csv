@@ -2,4 +2,4 @@
 0,0,Well in Ornwell,Get to the well in Ornwell.,0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))"
 1,1,Other Well,Go to the other well which is hidden on a little farm.,0,"((ItemID=0,Name=""None"",Amount=0,Quality=0))"
 2,2,Hunting,Get 10 wild in durchschnittlich,1,"((ItemID=4,Name=""None"",Amount=10,Quality=3))"
-3,3,Reward,Go to the quest reward guy at the market of Duyandrill,999,"((ItemID=4,Name=""None"",Amount=15,Quality=5),(ItemID=5,Name=""None"",Amount=1,Quality=4))"
+3,3,Reward,Quest Finished. Go to the quest reward guy at the market of Duyandrill,999,"((ItemID=4,Name=""None"",Amount=15,Quality=6),(ItemID=5,Name=""None"",Amount=1,Quality=5))"
