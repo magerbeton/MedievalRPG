@@ -1,0 +1,10 @@
+,ItemID,ItemName,ItemStats,Quality,ItemInfo
+0,0,None,"(0,0)","(0,0)",
+1,1,Apfel,"(3,2)","(2,4)","Dies scheint ein normaler Apfel zu sein. Er ist nicht besonders Nahrhaft, doch durch Kochen könnte er seinen Geschmack entfalten."
+2,2,Getreide,"(0,0)","(2,4)",Es wäre besser wenn man das Getreide vor dem Verzehr verarbeitet.
+3,3,Graupilz,"(2,1)","(2,4)",Ein gewöhnlicher Graupilz aus einem gewöhnlichen Eichengebiet. Alleine leicht bitter und nicht besonders genießbar.
+4,4,Wild,"(2,2)","(2,4)",Ein Wild ist nicht besonders leicht zu erjagen und auch nicht besonders genießbar ohne es vorher zubereitet zu haben.
+5,5,gelbe Rübe,"(4,3)","(2,4)","Gelbe Rüben sind nicht leicht zu finden. Sie haben einen süßlichen Geschmack, der sich gut in einem Salat machen könnte..."
+6,6,Schneidbrett,"(0,0)","(1,5)",Ein Utensil aus Holz um Essen zuzubereiten.
+7,7,Mörser und Stößel,"(0,0)","(1,5)",Ein Utensil für die Küche. Es ist gut geeignet um Zutaten zu zerkleinern.
+8,8,Küchenmesser,"(0,0)","(1,5)","Ein Messer, dass für die Zubereitung von Lebensmitteln geeignet ist, doch auch als Waffe genutzt werden kann."
