@@ -12,5 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.blend
+*.fbx
+*.png
+*.jpg
+*.wav
 MedievalRPG.uproject
 MedievalRPG.uproject
