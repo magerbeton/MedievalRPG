@@ -1,17 +1,25 @@
-,ItemID,ItemName,ItemStats,Quality,ItemInfo
-0,0,None,"(0,0)","(0,0)",
-1,1,Apfel,"(3,2)","(2,4)","Dies scheint ein normaler Apfel zu sein. Er ist nicht besonders Nahrhaft, doch durch Kochen könnte er seinen Geschmack entfalten."
-2,2,Getreide,"(0,0)","(2,4)",Es wäre besser wenn man das Getreide vor dem Verzehr verarbeitet.
-3,3,Graupilz,"(2,1)","(2,4)",Ein gewöhnlicher Graupilz aus einem gewöhnlichen Eichengebiet. Alleine leicht bitter und nicht besonders genießbar.
-4,4,Wild,"(2,2)","(2,4)",Ein Wild ist nicht besonders leicht zu erjagen und auch nicht besonders genießbar ohne es vorher zubereitet zu haben.
-5,5,gelbe Rübe,"(4,3)","(2,4)","Gelbe Rüben sind nicht leicht zu finden. Sie haben einen süßlichen Geschmack, der sich gut in einem Salat machen könnte..."
-6,6,Schneidbrett,"(0,0)","(1,5)",Ein Utensil aus Holz um Essen zuzubereiten.
-7,7,Mörser und Stößel,"(0,0)","(1,5)",Ein Utensil für die Küche. Es ist gut geeignet um Zutaten zu zerkleinern.
-8,8,Küchenmesser,"(0,0)","(1,5)","Ein Messer, dass für die Zubereitung von Lebensmitteln geeignet ist, doch auch als Waffe genutzt werden kann."
-9,9,Holz,"(0,0)","(0,0)",Ein stück Holz aus dem Wald
-10,10,Zweige,"(0,0)","(0,0)",Dünne Holzstöcke aus dem Wald
-11,11,Stein,"(0,0)","(0,0)",Ein kleiner stein von einem Stein
-12,12,Eisen Erz,"(0,0)","(0,0)",Ein unförmiger Klumpen eisen
-13,13,Eisen Barren,"(0,0)","(0,0)",Ein gut geformter barren aus eisen
-14,14,Eisen Kurzschwert,"(0,0)","(0,0)","Ein wohlgeformtes, nicht all zu schwer herzustellendes Schwert"
-15,15,Steinkohle,"(0,0)","(0,0)",Ein Schwarzes stück Steinkohle
+,ItemID,ItemName,AssembledSword/ArmorParts,Quality,ItemInfo,EquipmentID
+0,0,None,(),"(0,0)",,-1
+1,1,Apfel,(),"(2,4)","Dies scheint ein normaler Apfel zu sein. Er ist nicht besonders Nahrhaft, doch durch Kochen könnte er seinen Geschmack entfalten.",-1
+2,2,Getreide,(),"(2,4)",Es wäre besser wenn man das Getreide vor dem Verzehr verarbeitet.,-1
+3,3,Graupilz,(),"(2,4)",Ein gewöhnlicher Graupilz aus einem gewöhnlichen Eichengebiet. Alleine leicht bitter und nicht besonders genießbar.,-1
+4,4,Wild,(),"(2,4)",Ein Wild ist nicht besonders leicht zu erjagen und auch nicht besonders genießbar ohne es vorher zubereitet zu haben.,-1
+5,5,gelbe Rübe,(),"(2,4)","Gelbe Rüben sind nicht leicht zu finden. Sie haben einen süßlichen Geschmack, der sich gut in einem Salat machen könnte...",-1
+6,6,Schneidbrett,(),"(1,5)",Ein Utensil aus Holz um Essen zuzubereiten.,-1
+7,7,Mörser und Stößel,(),"(1,5)",Ein Utensil für die Küche. Es ist gut geeignet um Zutaten zu zerkleinern.,-1
+8,8,Küchenmesser,(),"(1,5)","Ein Messer, dass für die Zubereitung von Lebensmitteln geeignet ist, doch auch als Waffe genutzt werden kann.",-1
+9,9,Holz,(),"(0,0)",Ein stück Holz aus dem Wald,-1
+10,10,Zweige,(),"(0,0)",Dünne Holzstöcke aus dem Wald,-1
+11,11,Stein,(),"(0,0)",Ein kleiner stein von einem Stein,-1
+12,12,Eisen Erz,(),"(0,0)",Ein unförmiger Klumpen eisen,-1
+13,13,Eisen Barren,(),"(0,0)",Ein gut geformter barren aus eisen,-1
+14,14,Schwert Rohling,(),"(0,0)",Ein Grundgerüst für ein Schwert.,3
+15,15,Steinkohle,(),"(0,0)",Ein Schwarzes stück Steinkohle,-1
+16,16,Einfache Eisenklinge,"(1,0,0,0)","(0,0)",Eine scharfe gut geschmiedete Eisen klinge,-1
+17,17,Dünne Eisenklinge,"(1,0,0,0)","(0,0)",Eine scharfe dünne Eisenklinge,-1
+18,18,Einfacher Griff,"(0,0,1,0)","(0,0)",Ein einfacher aus Holz gefertigter Schwertgriff,-1
+19,19,Verstärkter Griff,"(0,0,1,0)","(0,0)",Ein starker Griff der den Halt am Schwert erhöht,-1
+20,20,Einfache Parrierstange,"(0,1,0,0)","(0,0)",Eine einfache aber nützliche Parrierstange,-1
+21,21,Gedrehte Parrierstange,"(0,1,0,0)","(0,0)",Eine Parrierstange die nur in kombination mit Plattenrüstung getragen werden sollte,-1
+22,22,Ovaler Knauf,"(0,0,0,1)","(0,0)",Ein schöner ovaler Knauf der das Abrutschen verhindert,-1
+23,23,Runder Knauf,"(0,0,0,1)","(0,0)",Ein schöner runder Knauf der das Abrutschen verhindert,-1
