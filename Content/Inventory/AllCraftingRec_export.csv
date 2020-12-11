@@ -1,5 +1,0 @@
-,Ingreedients,Fuel,Result,RecepieID,Time
-3,"((ItemID=12,Amount=2))","((ItemID=9,Amount=4),(ItemID=10,Amount=16),(ItemID=15,Amount=2))","((ItemID=13,Amount=1))",0,0.2
-4,"((ItemID=12,Amount=5))","((ItemID=9,Amount=4),(ItemID=10,Amount=16),(ItemID=15,Amount=2))","((ItemID=22,Amount=1))",0,15.0
-5,"((ItemID=13,Amount=15),(ItemID=9,Amount=10))","((ItemID=9,Amount=4),(ItemID=15,Amount=2))","((ItemID=14,Amount=1))",1,25.0
-6,"((ItemID=13,Amount=2))","((ItemID=9,Amount=4),(ItemID=10,Amount=16),(ItemID=15,Amount=2))","((ItemID=12,Amount=1))",2,0.2
